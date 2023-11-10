@@ -4,7 +4,7 @@
 - 📫 Reach me here: [Email](mailto:hey@jonas.pub "hey@jonas.pub")
 - 🗺️ Located in **Germany**
 - 🪟 **Front-end** focused
-- ❤️ In love with [Angular](https://angular.io/ "angular.io") and [Kotlin](https://kotlinlang.org/ "kotlinlang.org")
+- ❤️ In love with [Angular](https://angular.dev/ "angular.dev") and [Kotlin](https://kotlinlang.org/ "kotlinlang.org")
 
 ```json
 {
